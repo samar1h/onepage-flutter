@@ -1,2 +1,2 @@
 # onepage-flutter
-OnePage is a minimalist note-taking app designed to help you declutter your thoughts and capture ideas with ease.
+remake of the orignal [one page](github.com/samar1h/onepage-js) app in flutter.
